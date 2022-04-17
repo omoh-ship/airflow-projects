@@ -1,0 +1,5 @@
+[2022-04-11 12:58:02,572] {processor.py:163} INFO - Started process (PID=1446) to work on /home/isedugloria/airflow/dags/test_mocking.py
+[2022-04-11 12:58:02,671] {processor.py:642} INFO - Processing file /home/isedugloria/airflow/dags/test_mocking.py for tasks to queue
+[2022-04-11 12:58:02,680] {logging_mixin.py:109} INFO - [2022-04-11 12:58:02,679] {dagbag.py:500} INFO - Filling up the DagBag from /home/isedugloria/airflow/dags/test_mocking.py
+[2022-04-11 12:58:04,438] {processor.py:656} WARNING - No viable dags retrieved from /home/isedugloria/airflow/dags/test_mocking.py
+[2022-04-11 12:58:04,569] {processor.py:171} INFO - Processing /home/isedugloria/airflow/dags/test_mocking.py took 2.120 seconds
