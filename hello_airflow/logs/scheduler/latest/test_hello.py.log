@@ -1,0 +1,10 @@
+[2022-04-11 12:58:06,187] {processor.py:163} INFO - Started process (PID=1447) to work on /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 12:58:06,190] {processor.py:642} INFO - Processing file /home/isedugloria/airflow/dags/test_hello.py for tasks to queue
+[2022-04-11 12:58:06,191] {logging_mixin.py:109} INFO - [2022-04-11 12:58:06,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 12:58:07,261] {processor.py:656} WARNING - No viable dags retrieved from /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 12:58:07,275] {processor.py:171} INFO - Processing /home/isedugloria/airflow/dags/test_hello.py took 1.123 seconds
+[2022-04-11 15:31:35,162] {processor.py:163} INFO - Started process (PID=1839) to work on /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 15:31:35,168] {processor.py:642} INFO - Processing file /home/isedugloria/airflow/dags/test_hello.py for tasks to queue
+[2022-04-11 15:31:35,171] {logging_mixin.py:109} INFO - [2022-04-11 15:31:35,170] {dagbag.py:500} INFO - Filling up the DagBag from /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 15:31:35,880] {processor.py:656} WARNING - No viable dags retrieved from /home/isedugloria/airflow/dags/test_hello.py
+[2022-04-11 15:31:35,889] {processor.py:171} INFO - Processing /home/isedugloria/airflow/dags/test_hello.py took 0.745 seconds

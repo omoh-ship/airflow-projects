@@ -1,0 +1,7 @@
+[2022-04-11 15:31:50,390] {processor.py:163} INFO - Started process (PID=1851) to work on /home/isedugloria/demoenv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-04-11 15:31:50,393] {processor.py:642} INFO - Processing file /home/isedugloria/demoenv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-04-11 15:31:50,395] {logging_mixin.py:109} INFO - [2022-04-11 15:31:50,394] {dagbag.py:500} INFO - Filling up the DagBag from /home/isedugloria/demoenv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-04-11 15:31:50,697] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/isedugloria/demoenv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2022-04-11 15:31:52,111] {logging_mixin.py:109} INFO - [2022-04-11 15:31:52,111] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-04-11 15:31:52,148] {logging_mixin.py:109} INFO - [2022-04-11 15:31:52,148] {dag.py:2937} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-04-11 15:31:52,218] {processor.py:171} INFO - Processing /home/isedugloria/demoenv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 1.846 seconds
