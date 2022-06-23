@@ -10,7 +10,7 @@ A simple DAG that says hello and a unit test to check if components work as expe
 To clone the repo:
 
 ```bash
-git clone https://github.com/omoh-ship/airflow-projects.git
+git clone https://github.com/purple-mustache/airflow-projects.git
 ```
 
 
