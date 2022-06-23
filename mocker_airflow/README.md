@@ -10,7 +10,7 @@
 To clone the repo:
 
 ```bash
-git clone https://github.com/omoh-ship/airflow-projects.git
+git clone https://github.com/purple-mustache/airflow-projects.git
 ```
 
 
